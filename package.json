@@ -1,0 +1,17 @@
+{
+  "name": "belajar_db001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "4.1.x",
+    "nodemon": "^2.0.22"
+  }
+}
